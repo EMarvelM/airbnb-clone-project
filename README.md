@@ -39,3 +39,8 @@ Airbnb Clone Project is a comprehensive, real-world application designed to simu
 - **Payment Processing**: Handles payments related to a bookings
 - **Review System**: Create review post, manage for each properties
 
+
+## API Security
+
+Security is a crtical part of AirBnB, Client application would have have to be authenticaled and if not would not be authorized to consume the api facing backend to create booking, review and manage users, also ratelimiting is also a means of reducing abuse by authorized client consuming the API backend
+
