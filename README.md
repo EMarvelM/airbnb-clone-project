@@ -44,3 +44,9 @@ Airbnb Clone Project is a comprehensive, real-world application designed to simu
 
 Security is a crtical part of AirBnB, Client application would have have to be authenticaled and if not would not be authorized to consume the api facing backend to create booking, review and manage users, also ratelimiting is also a means of reducing abuse by authorized client consuming the API backend
 
+
+## CI/CD Pipeline
+
+The following tools would be used for setting up automated development and testing:
+- GitHub Actions
+- Docker
