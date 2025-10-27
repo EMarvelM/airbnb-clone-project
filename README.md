@@ -29,3 +29,13 @@ Airbnb Clone Project is a comprehensive, real-world application designed to simu
 - Bookings: Booking are made on different Properties
 - Reviews: Reviews are made for each booking
 - Payments: Payments are made on booking
+
+
+## Feature Breakdown
+
+- **User Management**: Registering a new user, and managing there profiles
+- **Property Management**: Creating a new property, managing and deleting properties
+- **Booking System**: Make booking, manage booking (like check in and out details)
+- **Payment Processing**: Handles payments related to a bookings
+- **Review System**: Create review post, manage for each properties
+
