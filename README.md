@@ -16,9 +16,16 @@ Airbnb Clone Project is a comprehensive, real-world application designed to simu
 
 ## Team Roles
 
-
 - **Backend Developer**: Responsible for implementing API endpoints, database schemas, and business logic.
 - **Database Administrator**: Manages database design, indexing, and optimizations.
 - **DevOps Engineer**: Handles deployment, monitoring, and scaling of the backend services.
 - **QA Engineer**: Ensures the backend functionalities are thoroughly tested and meet quality standards.
 
+
+## Database Design
+
+- Users: A user can have multiple properties, a booking belongs to a property
+- Properties: A property can have multiple Booking, Reviews and Payments
+- Bookings: Booking are made on different Properties
+- Reviews: Reviews are made for each booking
+- Payments: Payments are made on booking
